@@ -1,7 +1,7 @@
 {
     "name": "flashcard_project",
     "short_name": "flashcard_project",
-    "start_url": ".",
+    "start_url": "./flashcard_project/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
